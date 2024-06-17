@@ -61,9 +61,6 @@ Puedes visualizar el informe interactivo en Power BI utilizando el siguiente enl
 
 ## Autor
 
-- **Nombre del Autor**: [Tu Nombre]
-- **Contacto**: [Tu Email]
+- **Nombre del Autor**: [Felipe Orlando Amezquita Samudio]
+- **email**: [famezquita.os@gmail.com]
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
